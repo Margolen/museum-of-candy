@@ -1,4 +1,4 @@
-# Museum of Candy Landing Page README
+# Museum of Candy Landing Page 
 
 This project is a landing page for the Museum of Candy, created using Bootstrap. Below are the key points:
 
